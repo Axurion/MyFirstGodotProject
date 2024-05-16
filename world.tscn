@@ -3603,11 +3603,11 @@ position_smoothing_enabled = true
 position = Vector2(1916, 5)
 
 [node name="snail2" parent="." node_paths=PackedStringArray("hit_state") instance=ExtResource("4_o0dq8")]
-position = Vector2(1003, -41)
+position = Vector2(982, -44)
 hit_state = NodePath("../snail/Characterstatemachine/hit")
 
 [node name="snail3" parent="." node_paths=PackedStringArray("hit_state") instance=ExtResource("4_o0dq8")]
-position = Vector2(1003, -41)
+position = Vector2(269, -10)
 hit_state = NodePath("../snail/Characterstatemachine/hit")
 
 [node name="HealthManager" parent="." instance=ExtResource("5_www1a")]
